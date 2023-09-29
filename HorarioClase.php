@@ -59,6 +59,8 @@ $Dia = readline("Elija una de los siguientes días de la semana: Lunes-Martes-Mi
         ],
     ];
 
+    //hola grupo soy vanesa, feliz hallowig
+
     //Parte de la semana
 
     switch ($Dia) {
