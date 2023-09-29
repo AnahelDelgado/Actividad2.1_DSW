@@ -1,7 +1,7 @@
 <?php
 /*Implementa un script en PHP que almacene en un array el horario del grupo 2º DAM, teniendo en cuenta los siguientes detalles:
 Se debe registrar, para actividad (cada hora de clase) qué módulo se imparte, qué docente lo hace y en qué taller.
-El array debe estar indexado de forma que se facilite el acceso a los detalles (módulo, docente y tutor) de la actividad de un día y hora determinados. 
+El array debe estar indexado de forma que se facilite el acceso a los detalles (módulo, docente y tutor) de la actividad de un día y hora determinados.
 La elección de los índices la puedes hacer según el criterio que estimes oportuno.
 
 Al ejecutar el script se debe proporcionar al usuario la siguiente información:
@@ -108,21 +108,21 @@ $Dia = readline("Elija una de los siguientes días de la semana: Lunes-Martes-Mi
 
     if($Dia = 'Lunes'){
         function find($hora){
-            
+
         }
     }
 
 
 
-      
+
       //echo"\nEl nombre largo del primer módulo" . $miArray[0]; //Método que nos permite imprimir el nombre completo del primer módulo de nuestro array
-      
-  //print_r($miArray); //Método que nos permite imprimir nuestro array 
+
+  //print_r($miArray); //Método que nos permite imprimir nuestro array
 
 //  foreach ($miArray as $indice => $valor){
   //    echo "\nMódulo número $indice : $valor"; //Método que nos mpermite imprimir nuestro array de la siguiente forma "Módulo número/abreviación DSW : Desarrollo web en entorno servidor
   //}
-  
+
   //echo "\nLa denominación larga de DSW ES " . $miArray["DSW"];//Método que nos imprime el nombre completo del módulo con solo pasarle las siglas del mismo
 
 
