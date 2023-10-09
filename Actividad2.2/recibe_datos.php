@@ -24,4 +24,22 @@
       break;
   }
 
+  if ($validacion) {
+    $mensaje = "Datos recibidos y validados correctamente.";
+    foreach ($_POST as $clave => $valor)
+        {
+            if ($clave !== "nombre_formulario")
+                echo "<br> - $clave: $valor";
+        }
+  } else {
+    $mensaje = "Error al validar los datos.";
+  }
 ?>
+
+<html>
+
+  <body>
+    <?php echo $mensaje; ?>
+  </body>
+
+</html>
