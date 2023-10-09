@@ -1,22 +1,22 @@
 <?php
 
-    include "funciones_validacion.php";
+  include "funciones_validacion.php";
 
-$username = $_GET['username'];
-$gender = $_GET['gender'];
-$language = $_GET['idioma'];
-$terms = $_GET['terms'];
-$language = $_GET['idioma'];
+  $nombre_formulario = $_POST["nombre_formulario"];
+  $mensaje = "";
 
-echo "Hola $username";
+  switch ($nombre_formulario) {
+    case 'vicente':
+      $validacion1 = valida_email();
+      $validacion2 = valida_algo();
 
+      $validacion = $validacion1 == true && $validacion2 == true;
+      break;
+    case 'anahel':
+      break;
+    default:
+      $mensaje = "Error al recibir los datos.";
+      break;
+  }
 
 ?>
-
-<html>
-
-    <body>
-        <?php echo $mensaje; ?>
-    </body>
-
-</html>
