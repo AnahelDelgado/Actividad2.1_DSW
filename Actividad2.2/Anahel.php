@@ -6,7 +6,7 @@
         <title>Anahel</title>
     </head>
     <body>
-        <form action="recibe_datos.php" method="get">
+        <form action="recibe_datos.php" method="post">
         <br>Nombre: <input name="username" type="text" value="Usuario345">
         <br>
             <!-- Parte de select multiple -->
