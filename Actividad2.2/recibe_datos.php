@@ -7,10 +7,11 @@
 
   switch ($nombre_formulario) {
     case 'vicente':
-      $validacion1 = valida_email();
-      $validacion2 = valida_algo();
+      $validacion1 = valida_email($_POST["email"]);
+      $validacion2 = valida_edad($_POST["age"]);
+      $validacion3 = valida_terminos($_POST["terms"]);
 
-      $validacion = $validacion1 == true && $validacion2 == true;
+      $validacion = $validacion1 && $validacion2 && $validacion3;
       break;
     case 'anahel':
 
@@ -40,6 +41,7 @@
 
   <body>
     <?php echo $mensaje; ?>
+    <?php echo "cosas para debuggear, quitar al entregar:<br/>"; var_dump($_POST); ?>
   </body>
 
 </html>
