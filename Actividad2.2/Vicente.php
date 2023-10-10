@@ -11,10 +11,13 @@
   <body>
     <main>
       <form action="recibe_datos.php" method="post">
-        <input type="text" value="vicente" disabled>
+        <input type="hidden" name="nombre_formulario" id="nombre_formulario" value="vicente">
 
         <label for="email">Email: </label>
         <input type="text" name="email" id="email" placeholder="example@example.com">
+
+        <label for="user">Edad: </label>
+        <input type="number" name="age" id="age" placeholder="00">
 
         <label for="gender">Género: </label>
         <select name="gender" id="gender" multiple>
