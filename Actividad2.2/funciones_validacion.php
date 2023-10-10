@@ -14,6 +14,11 @@
                 else
                     $aErrores[] = false;
             }
-    }
+        }
 
+        function validar_idioma($idioma){
+            if(empty($_POST[idioma])){
+                return false;
+            }
+        }
 ?>
