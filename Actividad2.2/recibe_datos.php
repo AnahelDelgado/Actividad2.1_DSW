@@ -13,6 +13,11 @@
       $validacion = $validacion1 == true && $validacion2 == true;
       break;
     case 'anahel':
+
+      $validacion3 = valida_nombre();
+      $validacion4 = valida_idioma();
+
+      $validacion5 = $validacion3 == true && validacion4 == true;
       break;
     default:
       $mensaje = "Error al recibir los datos.";
