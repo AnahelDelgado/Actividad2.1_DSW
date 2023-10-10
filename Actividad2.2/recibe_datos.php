@@ -14,10 +14,9 @@
       break;
     case 'anahel':
 
-      $validacion3 = valida_nombre();
-      $validacion4 = valida_idioma();
+      $validacion3 = validar_user_name();
 
-      $validacion5 = $validacion3 == true && validacion4 == true;
+      $validacion5 = $validacion3 == true;
       break;
     default:
       $mensaje = "Error al recibir los datos.";
