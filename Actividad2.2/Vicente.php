@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>vicente</title>
+    <title>formulario vicente</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/light.css">
   </head>
 
@@ -23,7 +23,7 @@
         <select name="gender" id="gender" multiple>
           <option value="man" selected>Hombre</option>
           <option value="female">Mujer</option>
-          <option value="frog" selected>Rana</option>
+          <option value="frog">Rana</option>
         </select>
 
         <input type="checkbox" name="terms" id="terms" checked>

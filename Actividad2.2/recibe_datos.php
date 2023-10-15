@@ -10,15 +10,15 @@
       $validacion1 = valida_email($_POST["email"]);
       $validacion2 = valida_edad($_POST["age"]);
       $validacion3 = valida_terminos($_POST["terms"]);
+      $validacion4 = valida_genero($_POST["gender"]);
 
-      $validacion = $validacion1 && $validacion2 && $validacion3;
+      $validacion = $validacion1 && $validacion2 && $validacion3 && $validacion4;
       break;
     case 'anahel':
-
       $validacion3 = valida_nombre($_POST["username"]);
       $validacion4 = valida_idiomas($_POST["idioma"]);
 
-      $validacion5 = $validacion3 && $validacion4;
+      $validacion = $validacion3 && $validacion4;
       break;
     default:
       $mensaje = "Error al recibir los datos.";
@@ -41,7 +41,8 @@
 
   <body>
     <?php echo $mensaje; ?>
-    <?php echo "cosas para debuggear, quitar al entregar:<br/>"; var_dump($_POST); ?>
+    <br/>
+    <?php # echo "cosas para debuggear, quitar al entregar:<br/>"; var_dump($_POST); ?>
   </body>
 
 </html>

@@ -23,6 +23,13 @@
     return true;
   }
 
+  /**
+   * Valida el género
+   */
+  function valida_genero($gender): bool {
+    if (empty($gender)) return false;
+    return true;
+  }
 
   /**
    * Valida el email
@@ -33,7 +40,7 @@
   function valida_email(string $email): bool {
     if (empty($email)) return false;
     $validated_email = filter_var($email, FILTER_VALIDATE_EMAIL);
-    if ($validated_email == false) return false;
+    if ($validated_email === false) return false;
     return true;
   }
 
