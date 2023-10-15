@@ -15,8 +15,8 @@
       break;
     case 'anahel':
 
-      $validacion3 = validar_user_name($_POST["username"]);
-      $validacion4 = validar_idioma($_POST["idioma"]);
+      $validacion3 = valida_nombre($_POST["username"]);
+      $validacion4 = valida_idiomas($_POST["idioma"]);
 
       $validacion5 = $validacion3 && $validacion4;
       break;

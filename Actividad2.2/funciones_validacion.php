@@ -5,7 +5,7 @@
  * Requisitos
  * -String no vacia
  */
-  function valida_nombre(string $nombre): bool {
+  function valida_nombre(string $username): bool {
     if (empty($username)) return false;
     return true;
   }
