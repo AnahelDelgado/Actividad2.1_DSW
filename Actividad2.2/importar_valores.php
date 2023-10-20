@@ -16,8 +16,8 @@ function cargar_defecto(string $nombre_archivo) {
   }
 }
 
-// Inserta los valores por defecto en el array pasado por parámetros
-function insertar_en_array() {
+// Devuelve un array con los valores por defecto
+function obtener_array_defecto(): array {
   global $valores;
   $array = array();
 
@@ -27,8 +27,5 @@ function insertar_en_array() {
   }
   return $array;
 }
-
-
-var_dump($valores);
 
 ?>
