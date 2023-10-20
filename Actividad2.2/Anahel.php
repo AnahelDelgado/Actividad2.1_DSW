@@ -1,3 +1,24 @@
+<?php
+    //Ponemos como valor predeterminado el idioma Español
+    $array_valor_defecto = array("idiomaSelect" => "espa");
+
+    $select_espa = $select_ingl = $select_cata = $select_vasc = "";
+
+    switch($array_valor_defecto["idiomaSelect"]){
+        case "espa":
+            $select_espa = "selected";
+            break;
+        case "ingl":
+            $select_ingl = "selected";
+            break;
+        case "cata":
+            $select_cata = "selected";
+            break;
+        case "vasc":
+            $select_vasc = "selected";
+            break;
+    }
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
