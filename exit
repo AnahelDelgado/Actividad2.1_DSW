@@ -1,0 +1,378 @@
+[33mcommit 18492a0f05ef6507f916b33f5266082ddf1ccf38[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mvicente_lee_fichero[m[33m, [m[1;32manahel_lee_fichero[m[33m)[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Sun Oct 15 20:21:43 2023 +0100
+
+    Arreglar validacion
+
+[33mcommit 2216c7081640c4e22bc660151c4a4b64e1ebc7ee[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Sun Oct 15 19:56:04 2023 +0100
+
+    Arreglar errores
+
+[33mcommit d41078642e8a0ae5da2801eb41ebf62c1a7e3c9f[m
+Author: AnahelDelgado <146343150+AnahelDelgado@users.noreply.github.com>
+Date:   Sun Oct 15 02:19:24 2023 +0100
+
+    Añadido más funciones de validación
+
+[33mcommit efce9b406bb152eb48908fdacaf0fd27bc15bf8c[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Tue Oct 10 18:27:40 2023 +0100
+
+    Añadir funciones de validación
+
+[33mcommit 2fa9a90c67288edd1c42362c093ff33417d57a26[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Tue Oct 10 18:27:10 2023 +0100
+
+    Añadir campo edad y nombre_formulario
+
+[33mcommit fe668e7c0b75b29f2e3c8c0bee9ca2fd1441f8b8[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Mon Oct 9 12:13:24 2023 +0100
+
+    Add validator error msg
+
+[33mcommit a872c1a68891d73cccb9fe6c90754a9d7ead14cb[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 10 13:01:59 2023 +0100
+
+    Actualización de funciones_validacion y recibe_datos
+
+[33mcommit 3fea77a9fd6387b85180227f4da27b8ae9e5324a[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 10 12:43:20 2023 +0100
+
+    Corrección en funciones_validación
+
+[33mcommit 4087a9b6d72e7a96b2aa7f2b9dbbe1e8acc36fd9[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 10 12:36:51 2023 +0100
+
+    Actualización recibe_datos
+
+[33mcommit a5f11917a273d6e3cb80cf3d50a35e91e11eff7e[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 10 12:33:41 2023 +0100
+
+    Actualización de funciones_validadción
+
+[33mcommit a5fb252a53b8c27e966f70aa36c06d006222a4c4[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 10 12:23:23 2023 +0100
+
+    Actualización del archivo funciones_validación
+
+[33mcommit a5542edaa71ae022a9c22e7df2202b79326c23e1[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 10 12:14:42 2023 +0100
+
+    Actualización archivo recibe_datos
+
+[33mcommit 49224f7107ad3db207996395bdfad3ae6970f1f6[m
+Merge: 4e8c566 0f5d56b
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Mon Oct 9 12:19:42 2023 +0100
+
+    Actualización de archivos
+
+[33mcommit 4e8c5666344682b2fb084ccb0e498ab4b077b2a5[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Mon Oct 9 12:18:35 2023 +0100
+
+    Actualización de archivos
+
+[33mcommit 0f5d56b71a25dd66571067ebc57350e4850978d2[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Mon Oct 9 12:10:42 2023 +0100
+
+    Recibe_datos
+
+[33mcommit bb699888b975a58ec0fe88f8196ec1bcba76f92a[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Mon Oct 9 12:02:19 2023 +0100
+
+    Actualización de archivos
+
+[33mcommit 22e747e0f6af682dba98f691161051f3f3dbe3a2[m
+Merge: 3c883a5 b722ef2
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 3 12:07:09 2023 +0100
+
+    Actualización de archivos
+
+[33mcommit 3c883a5ba16a18b21637aea0ee1f19f465ac0a96[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 3 12:04:27 2023 +0100
+
+    Actualización en 'Anahel.php' y en 'recibe_datos.php'
+
+[33mcommit b722ef2642d5ba1b559d3fa6458d53b54a651228[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Tue Oct 3 11:55:00 2023 +0100
+
+    Implementacion inicial recibe_datos.php
+
+[33mcommit 2f49940b0f04167cd73998298bc40b51e67a4138[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Tue Oct 3 11:47:08 2023 +0100
+
+    Crear Vicente.html
+
+[33mcommit d6122d983e3ad8350103eb840e7f70dd3d5a7c96[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 3 10:40:14 2023 +0100
+
+    Añadido partes trabajos
+
+[33mcommit 0c7997e1b2c0634228fc7440a9ffff1e6904b7b8[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 3 10:37:40 2023 +0100
+
+    Añadido de carpeta actividad 2.2
+
+[33mcommit 9c427b33b10742ed82900c0c8b7c0fca58b54904[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Fri Sep 29 12:03:39 2023 +0100
+
+    Modificado el script
+
+[33mcommit f827f97ab66186adedf93034da93b52b3e524366[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Fri Sep 29 12:01:56 2023 +0100
+
+    hola
+
+[33mcommit 03b5c4242f58f1a0e172f60c8c555a1a39250bbc[m
+Merge: ce50f8f 1f438a7
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Fri Sep 29 11:59:56 2023 +0100
+
+    Conjunto
+
+[33mcommit ce50f8f2fb8026879199c98fb183137f044782aa[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Fri Sep 29 11:58:26 2023 +0100
+
+    Mod
+
+[33mcommit 1f438a7c8388728dbee3d11a36887f5873a23446[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Fri Sep 29 11:57:19 2023 +0100
+
+    Modifica el README
+
+[33mcommit d5a1f1ba8a02e27db53aff27e9a994eedc360640[m
+Merge: c804afa ff2d348
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Fri Sep 29 11:48:26 2023 +0100
+
+    Merge branch 'main' of https://github.com/AnahelDelgado/Actividad2.1_DSW
+
+[33mcommit c804afaf31414c185b8982122f39682d9771e4ac[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Fri Sep 29 11:48:21 2023 +0100
+
+    Añadido
+
+[33mcommit ff2d34885f23dfcf828365392a53b4cf87a90f11[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Fri Sep 29 11:46:37 2023 +0100
+
+    Añade la actividad 1.1
+
+[33mcommit 51f17fa3a2db4a8a853c03ece1b2462b83d9b37f[m
+Author: AnahelDelgado <146343150+AnahelDelgado@users.noreply.github.com>
+Date:   Fri Sep 29 11:39:00 2023 +0100
+
+    Initial commit
+[33mcommit 18492a0f05ef6507f916b33f5266082ddf1ccf38[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/vicente_lee_fichero[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/anahel_lee_fichero[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mvicente_lee_fichero[m[33m, [m[1;32manahel_lee_fichero[m[33m)[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Sun Oct 15 20:21:43 2023 +0100
+
+    Arreglar validacion
+
+[33mcommit 2216c7081640c4e22bc660151c4a4b64e1ebc7ee[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Sun Oct 15 19:56:04 2023 +0100
+
+    Arreglar errores
+
+[33mcommit d41078642e8a0ae5da2801eb41ebf62c1a7e3c9f[m
+Author: AnahelDelgado <146343150+AnahelDelgado@users.noreply.github.com>
+Date:   Sun Oct 15 02:19:24 2023 +0100
+
+    Añadido más funciones de validación
+
+[33mcommit efce9b406bb152eb48908fdacaf0fd27bc15bf8c[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Tue Oct 10 18:27:40 2023 +0100
+
+    Añadir funciones de validación
+
+[33mcommit 2fa9a90c67288edd1c42362c093ff33417d57a26[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Tue Oct 10 18:27:10 2023 +0100
+
+    Añadir campo edad y nombre_formulario
+
+[33mcommit fe668e7c0b75b29f2e3c8c0bee9ca2fd1441f8b8[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Mon Oct 9 12:13:24 2023 +0100
+
+    Add validator error msg
+
+[33mcommit a872c1a68891d73cccb9fe6c90754a9d7ead14cb[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 10 13:01:59 2023 +0100
+
+    Actualización de funciones_validacion y recibe_datos
+
+[33mcommit 3fea77a9fd6387b85180227f4da27b8ae9e5324a[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 10 12:43:20 2023 +0100
+
+    Corrección en funciones_validación
+
+[33mcommit 4087a9b6d72e7a96b2aa7f2b9dbbe1e8acc36fd9[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 10 12:36:51 2023 +0100
+
+    Actualización recibe_datos
+
+[33mcommit a5f11917a273d6e3cb80cf3d50a35e91e11eff7e[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 10 12:33:41 2023 +0100
+
+    Actualización de funciones_validadción
+
+[33mcommit a5fb252a53b8c27e966f70aa36c06d006222a4c4[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 10 12:23:23 2023 +0100
+
+    Actualización del archivo funciones_validación
+
+[33mcommit a5542edaa71ae022a9c22e7df2202b79326c23e1[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 10 12:14:42 2023 +0100
+
+    Actualización archivo recibe_datos
+
+[33mcommit 49224f7107ad3db207996395bdfad3ae6970f1f6[m
+Merge: 4e8c566 0f5d56b
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Mon Oct 9 12:19:42 2023 +0100
+
+    Actualización de archivos
+
+[33mcommit 4e8c5666344682b2fb084ccb0e498ab4b077b2a5[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Mon Oct 9 12:18:35 2023 +0100
+
+    Actualización de archivos
+
+[33mcommit 0f5d56b71a25dd66571067ebc57350e4850978d2[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Mon Oct 9 12:10:42 2023 +0100
+
+    Recibe_datos
+
+[33mcommit bb699888b975a58ec0fe88f8196ec1bcba76f92a[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Mon Oct 9 12:02:19 2023 +0100
+
+    Actualización de archivos
+
+[33mcommit 22e747e0f6af682dba98f691161051f3f3dbe3a2[m
+Merge: 3c883a5 b722ef2
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 3 12:07:09 2023 +0100
+
+    Actualización de archivos
+
+[33mcommit 3c883a5ba16a18b21637aea0ee1f19f465ac0a96[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 3 12:04:27 2023 +0100
+
+    Actualización en 'Anahel.php' y en 'recibe_datos.php'
+
+[33mcommit b722ef2642d5ba1b559d3fa6458d53b54a651228[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Tue Oct 3 11:55:00 2023 +0100
+
+    Implementacion inicial recibe_datos.php
+
+[33mcommit 2f49940b0f04167cd73998298bc40b51e67a4138[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Tue Oct 3 11:47:08 2023 +0100
+
+    Crear Vicente.html
+
+[33mcommit d6122d983e3ad8350103eb840e7f70dd3d5a7c96[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 3 10:40:14 2023 +0100
+
+    Añadido partes trabajos
+
+[33mcommit 0c7997e1b2c0634228fc7440a9ffff1e6904b7b8[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Tue Oct 3 10:37:40 2023 +0100
+
+    Añadido de carpeta actividad 2.2
+
+[33mcommit 9c427b33b10742ed82900c0c8b7c0fca58b54904[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Fri Sep 29 12:03:39 2023 +0100
+
+    Modificado el script
+
+[33mcommit f827f97ab66186adedf93034da93b52b3e524366[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Fri Sep 29 12:01:56 2023 +0100
+
+    hola
+
+[33mcommit 03b5c4242f58f1a0e172f60c8c555a1a39250bbc[m
+Merge: ce50f8f 1f438a7
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Fri Sep 29 11:59:56 2023 +0100
+
+    Conjunto
+
+[33mcommit ce50f8f2fb8026879199c98fb183137f044782aa[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Fri Sep 29 11:58:26 2023 +0100
+
+    Mod
+
+[33mcommit 1f438a7c8388728dbee3d11a36887f5873a23446[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Fri Sep 29 11:57:19 2023 +0100
+
+    Modifica el README
+
+[33mcommit d5a1f1ba8a02e27db53aff27e9a994eedc360640[m
+Merge: c804afa ff2d348
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Fri Sep 29 11:48:26 2023 +0100
+
+    Merge branch 'main' of https://github.com/AnahelDelgado/Actividad2.1_DSW
+
+[33mcommit c804afaf31414c185b8982122f39682d9771e4ac[m
+Author: Anahel Delgado <anahelginesdelgadoalmeida@alumno.ieselrincon.es>
+Date:   Fri Sep 29 11:48:21 2023 +0100
+
+    Añadido
+
+[33mcommit ff2d34885f23dfcf828365392a53b4cf87a90f11[m
+Author: Vicente <33096355+Vicente015@users.noreply.github.com>
+Date:   Fri Sep 29 11:46:37 2023 +0100
+
+    Añade la actividad 1.1
+
+[33mcommit 51f17fa3a2db4a8a853c03ece1b2462b83d9b37f[m
+Author: AnahelDelgado <146343150+AnahelDelgado@users.noreply.github.com>
+Date:   Fri Sep 29 11:39:00 2023 +0100
+
+    Initial commit
