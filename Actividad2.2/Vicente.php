@@ -1,12 +1,10 @@
 <?php
 
+include "importar_valores.php";
+
 // Array de valores por defecto
-$valores_defecto = array(
-  "email" => "vicente@example.com",
-  "age" => "12",
-  "gender" => "frog",
-  "terms" => "checked"
-);
+cargar_defecto("valoresdefecto.csv");
+$valores_defecto = obtener_array_defecto();
 
 // Array de los valores de gender
 $valores_gender = array(
@@ -17,8 +15,6 @@ $valores_gender = array(
 
 // Establece selected solo en el valor por defecto
 $valores_gender[$valores_defecto["gender"]] = "selected";
-
-var_dump($valores_defecto);
 
 ?>
 
