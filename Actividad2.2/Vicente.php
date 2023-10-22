@@ -31,7 +31,7 @@ $valores_gender[$valores_defecto["gender"]] = "selected";
 
   <body>
     <main>
-      <form action="recibe_datos.php" method="post">
+      <form action="recibe_datos.php" method="post" enctype="multipart/form-data">
         <input type="hidden" name="nombre_formulario" id="nombre_formulario" value="vicente">
 
         <label for="email">Email: </label>
