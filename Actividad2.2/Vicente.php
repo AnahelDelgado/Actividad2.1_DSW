@@ -49,9 +49,9 @@ $valores_gender[$valores_defecto["gender"]] = "selected";
 
         <fieldset>
           <legend>Subida de archivos</legend>
-          <label for="file1">Archivo 1</label>
+          <label for="file1">DNI Delantero</label>
           <input type="file" name="file1" id="file1">
-          <label for="fiel2">Archivo 2</label>
+          <label for="fiel2">DNI Trasero</label>
           <input type="file" name="file2" id="file2">
         </fieldset>
 
