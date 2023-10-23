@@ -1,4 +1,8 @@
 <?php
+
+    cargar_defecto("valoresdefectoAnahel.csv");
+    $valores_defecto = obtener_array_defecto();
+
     //Ponemos como valor predeterminado el idioma Español
     $array_valor_defecto = array("idiomaSelect" => "espa");
 
@@ -31,7 +35,7 @@
 
             <input type="hidden" name="nombre_formulario" id="nombre_formulario" value="anahel">
 
-            <br>Nombre: <input name="username" type="text" value="Usuario345">
+            <br>Nombre: <input name="username" type="text">
             <br>
                 <!-- Parte de select multiple -->
             <label for="idioma">Elija su idioma: </label>
