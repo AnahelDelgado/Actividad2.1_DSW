@@ -17,9 +17,7 @@
    * - Una opción seleccionada
    */
   function valida_idiomas($idioma): bool {
-    if (empty($value) || !is_array($idioma)) {
-        return false;
-    }
+    if (empty($value)) return false;
     return true;
   }
 
