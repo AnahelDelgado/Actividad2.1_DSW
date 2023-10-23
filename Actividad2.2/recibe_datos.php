@@ -21,6 +21,7 @@
       $validacion3 = valida_nombre($_POST["username"]);
       $validacion4 = valida_idiomas($_POST["idioma"]);
       $validacion5 = valida_terminos($_POST["terms"]);
+      $validacion6 = valida_imagen("file3");
 
       $validacion = $validacion3 && $validacion4 && $validacion5;
       break;

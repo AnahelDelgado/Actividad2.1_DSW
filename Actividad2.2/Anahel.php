@@ -19,10 +19,6 @@
             break;
     }
 ?>
-<<<<<<< HEAD
-=======
-
->>>>>>> vicente_lee_fichero
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -45,6 +41,12 @@
                 <option value="cata" <?= $select_cata ?> >Catalán</option>
                 <option value="vasc" <?= $select_vasc ?> >Vasco</option>
             </select>
+
+            <fieldset>
+                <legend>Subida de archivos</legend>
+                <label for="fiel3">Libro de familia</label>
+                <input type="file" name="file3" id="file3">
+            </fieldset>
             <br>
             <p><input type="checkbox" required name="terms">Acepto las condiciones </p>
             <br>
