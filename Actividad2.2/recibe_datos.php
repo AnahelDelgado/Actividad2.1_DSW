@@ -23,7 +23,7 @@
       $validacion5 = valida_terminos($_POST["terms"]);
       $validacion6 = valida_imagen("file3");
 
-      $validacion = $validacion3 && $validacion4 && $validacion5 && validacion6;
+      $validacion = $validacion3 && $validacion4 && $validacion5 && $validacion6;
       break;
     default:
       $mensaje = "Error al recibir los datos.";
@@ -51,7 +51,7 @@
 
   <body>
     <?php echo $mensaje; ?>
-    <br/>
+    <br />
     <?php # echo "cosas para debuggear, quitar al entregar:<br/>"; var_dump($_FILES); ?>
   </body>
 
