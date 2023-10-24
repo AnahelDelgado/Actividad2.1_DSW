@@ -1,4 +1,5 @@
 <?php
+include "importar_valores.php";
 
     cargar_defecto("valoresdefectoAnahel.csv");
     $valores_defecto = obtener_array_defecto();
