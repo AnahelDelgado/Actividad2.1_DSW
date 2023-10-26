@@ -2,6 +2,7 @@
 
   include "funciones_validacion.php";
   include "subida_archivos.php";
+  include "guardar_datos.php";
 
   $nombre_formulario = $_POST["nombre_formulario"];
   $mensaje = "";
@@ -35,6 +36,7 @@
     $mensaje = "Datos recibidos y validados correctamente.";
     foreach ($_POST as $clave => $valor)
         {
+            escribir_datos("ficheros/datos.txt", "$clave: $valor\n");
             if ($clave !== "nombre_formulario")
                 echo "<br> - $clave: $valor";
         }
